@@ -1,0 +1,9 @@
+Package: com.bandarhl.DeviceInfo
+Name: DeviceInfo
+Version: 1.0
+Description: get device information in Setting app
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Priority: optional
+Architecture: iphoneos-arm
+Author: BandarHelal
